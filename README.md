@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # Video-Fundamentos_Docker_Git
 
+=======
+>>>>>>> origin/feature/Diego
 # Día 1 — Fundamentos + Entorno Docker / Git
 
 ## 🎯 Objetivo General
@@ -127,5 +130,3 @@ Repositorio GitHub	Subido con estructura base y .env.example
 Docker Compose	Levanta PostgreSQL y Redis sin errores
 README Documentado	Incluye arquitectura, servicios y pasos
 Evidencia visual	Captura o video mostrando docker ps con contenedores activos
-
-### final
