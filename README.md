@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Video-Fundamentos_Docker_Git
 
-=======
->>>>>>> origin/feature/Diego
 # Día 1 — Fundamentos + Entorno Docker / Git
 
 ## 🎯 Objetivo General
